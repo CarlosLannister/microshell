@@ -1,0 +1,1 @@
+int mimkdir(char* directorio);
