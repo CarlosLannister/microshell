@@ -1,0 +1,1 @@
+int micat(char* archivo);
